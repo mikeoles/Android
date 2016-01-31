@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Postage Calculator</string>
+    <string name="PostageType">Postage Type</string>
+    <string name="PackageWeight">Package Weight</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Letter">Letter</string>
+    <string name="LargeEnvelope">Large Envelope</string>
+    <string name="Package">Package</string>
+    <string name="Weight">0-13oz</string>
+    <string name="title_activity_results">Results</string>
+</resources>
